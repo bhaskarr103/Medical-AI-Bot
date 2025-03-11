@@ -22,8 +22,8 @@ medical-chatbot/
 ## Output
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/aaa8fdd6-2564-4b8b-bcf1-3751c2f30c2f" width="300"></td>
-    <td><img src="https://github.com/user-attachments/assets/638b48c8-5b52-4fff-88df-04a213b5e834" width="300"></td>
+    <td><img src="https://github.com/user-attachments/assets/aaa8fdd6-2564-4b8b-bcf1-3751c2f30c2f" width="600"></td>
+    <td><img src="https://github.com/user-attachments/assets/638b48c8-5b52-4fff-88df-04a213b5e834" width="600"></td>
   </tr>
 </table>
 
