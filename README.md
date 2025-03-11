@@ -18,13 +18,16 @@ medical-chatbot/
 │── .env                     # Hugging Face API key
 ```
 
-```
-## Output
-![Screenshot (99)](https://github.com/user-attachments/assets/56711ca0-3a65-42d3-a338-4873aa5ea19c)<br>
-![Screenshot (100)](https://github.com/user-attachments/assets/aaa8fdd6-2564-4b8b-bcf1-3751c2f30c2f)<br>
-![Screenshot (101)](https://github.com/user-attachments/assets/638b48c8-5b52-4fff-88df-04a213b5e834)
 
-```
+## Output
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/56711ca0-3a65-42d3-a338-4873aa5ea19c" width="300"></td>
+    <td><img src="https://github.com/user-attachments/assets/aaa8fdd6-2564-4b8b-bcf1-3751c2f30c2f" width="300"></td>
+    <td><img src="https://github.com/user-attachments/assets/638b48c8-5b52-4fff-88df-04a213b5e834" width="300"></td>
+  </tr>
+</table>
+
 
 
 
